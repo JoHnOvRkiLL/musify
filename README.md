@@ -1,7 +1,24 @@
-# Spotify Clone
+# 🎵 Musify – A Spotify Clone in Flutter
 
-📺 Watch Video
+**Musify** is a beautifully designed music streaming mobile application built with Flutter. Inspired by Spotify, it offers a seamless music browsing and playback experience with a modern, responsive UI.
 
-[YouTube video](https://youtu.be/4TFbXepOjLI) where the source code is explained. [Subscribe YouTube channel](https://www.youtube.com/channel/UCkSbTj3XSWdaGfHiITheBqg).
+## 📱 Features
 
-![](https://github.com/mahdinazmi/Spotify-Clone-With-Flutter/blob/main/thumbnail.jpg)
+- 🎧 **Music Playback** – Play, pause, seek, and skip tracks
+- 📂 **Browse Music** – Albums, artists, and curated playlists
+- 💾 **Custom Playlists** – Create and manage your own playlists
+- 🔍 **Search** – Quickly find songs, albums, or artists
+- 📱 **Responsive Design** – Optimized for Android and iOS
+- 🌓 **Dark Theme** – Clean dark mode experience
+
+## 🛠 Tech Stack
+
+| Category         | Tools & Packages                                 |
+|------------------|--------------------------------------------------|
+| **Framework**     | Flutter                                         |
+| **Language**      | Dart                                            |
+| **State Mgmt**    | Bloc                                            |
+| **Audio Playback**| `just_audio`                                    |
+
+
+
